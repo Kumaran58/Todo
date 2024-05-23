@@ -61,7 +61,7 @@ Select Run As -> Java Application.
 The Spring Boot application will start, and you should see output indicating that the application has started successfully.
 
 6. Access the Application:
-
+Copy and paste the existing Node_modules Folder into the project.
 Start the React part in Vs code by using code - Npm Start
 
 Once the application is running, you can access it using a web browser or API testing tool:
